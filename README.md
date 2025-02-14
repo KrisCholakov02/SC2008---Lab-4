@@ -19,4 +19,4 @@ For in-depth findings, data visualizations, and technical analysis, check out th
 ---
 🔹 **Author:** Cholakov Kristiyan Kamenov  
 📅 **Date:** 18.10.2022  
-🖥 **Course:** CZ3006/CE3005 - Netcentric/Computer Networks  
+🖥 **Course:** SC2008 - Computer Networks  
